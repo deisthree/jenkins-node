@@ -1,5 +1,5 @@
 name: jenkins-node
-home: https://github.com/deis/jenkins-node
+home: https://github.com/deisthree/jenkins-node
 version: <Will be populated by the ci before publishing the chart>
 description: Deis Jenkins JNLP Agent
 maintainers:
